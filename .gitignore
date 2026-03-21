@@ -1,0 +1,22 @@
+# 敏感配置
+config.json
+*.local.json
+config.*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 日志
+*.log
+
+# API Keys (示例配置除外)
+.env
+.env.local
+.env.example
+
+# 设备特定配置（包含敏感信息）
+config.pc.json
+config.home.json
+config.termux.json
