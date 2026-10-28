@@ -1,5 +1,7 @@
 # Azure TTS Server
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Azure 语音服务本地代理，支持多设备部署。
 
 ## 部署架构
